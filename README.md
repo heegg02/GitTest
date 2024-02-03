@@ -1,4 +1,4 @@
 # GitTest
-* Cat
+* Dog
 * This is my README.md.
 * Hamster
