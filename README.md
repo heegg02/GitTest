@@ -1,3 +1,3 @@
 # GitTest
- This is my README.md.
- Hamster
+* This is my README.md.
+* Hamster
